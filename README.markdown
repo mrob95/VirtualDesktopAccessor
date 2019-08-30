@@ -1,3 +1,5 @@
+Includes 32bit dll which works on latest windows builds. MR, 30/08/2019
+
 # VirtualDesktopAccessor.dll
 
 DLL for accessing Windows 10 (tested with 1809 build 17663) Virtual Desktop features from e.g. AutoHotkey. MIT Licensed, see LICENSE.txt (c) Jari Pennanen, 2015-2018
